@@ -5,4 +5,3 @@ Observations
 #The outliers observed in humidity is hardly one that is above 100%.
 #Cloudiness show least correlation
 
-# have removed my Api keys to confirm safety. On loading the city list due the heavy processing of Data the file it was slowing down the loading of other 
